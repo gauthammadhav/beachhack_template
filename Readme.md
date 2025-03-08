@@ -1,29 +1,36 @@
-# Project Name
+# Single Cell Metabolomics using AI
 
 ## 🚀 Project Description
-A concise, engaging description of your hackathon project.
+Metabolomics analysis using AI enables faster, more
+accurate, and automated biomarker detection, improving
+early disease diagnosis, personalized medicine, and drug
+discovery while eliminating manual processing and
+reducing costs.
 
 ## 🎯 Link to Project
-[live link of project](live_link)
+
 
 ## 🛠 Tech Stack
-- List the primary technologies used
-- Include programming languages, frameworks, and key libraries
+- Figma, 
+-Python,Scikit-Learn,numpy, javascript, React, , RandomForest and XGBoost- trained ai models
+Deployment of backend using ngork to make the backend and data secure
 
 ## 📦 Prerequisites
 - List all required software and versions
 - Include installation instructions
 - Example:
-  ```
-  - Node.js (v14+)
-  - npm (v6+)
-  - Python (v3.8+)
-  ```
+  
+  Flask==3.0.0
+numpy==1.26.0
+scikit-learn==1.4.0
+joblib==1.3.2
+
+  
 
 ## 🔧 Installation & Setup
 
 1. Install dependencies
-   ```bash
+   `bash
    # Frontend
    cd frontend
    npm install
@@ -31,7 +38,7 @@ A concise, engaging description of your hackathon project.
    # Backend
    cd ../backend
    pip install -r requirements.txt
-   ```
+   
 
 2. Configure Environment Variables
    
@@ -45,17 +52,17 @@ A concise, engaging description of your hackathon project.
 
 4. Run the Application
    ```bash
-   # Start frontend
-   npm start
+   #start Frontend
+   npm install
 
-   # Start backend
+   #Start backend
    python app.py
    ```
 
 ## Team Members
-  [1.Team Member 1](enter_github_id_here)   
-  [2.Team Member 2](enter_github_id_here)   
-  [3.Team Member 3](enter_github_id_here)   
-  [4.Team Member 4](enter_github_id_here)  
+  [1.Jovial Joyson](enter_github_id_here)   
+  [2.Chrysler Marshal](enter_github_id_here)   
+  [3.Henry Bastian ](henrybastianv)   
+  [4.Jovial Joyson](J0o00)  
 
 **Made with ❤️ at Beachhack 6**
